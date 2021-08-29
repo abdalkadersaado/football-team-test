@@ -1,4 +1,4 @@
-# to install project you need :
+# to Run and install project you need :
 * git clone "https://github.com/abdalkadersaado/football-team-test.git"
 * composer install
 * create file .env
